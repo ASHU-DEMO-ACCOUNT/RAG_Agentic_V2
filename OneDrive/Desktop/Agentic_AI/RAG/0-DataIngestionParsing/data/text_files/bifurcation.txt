@@ -1,0 +1,9 @@
+
+
+Bifurcation (also known as forking) refers to the process of creating multiple copies of a given message. All these copies will have the same message content, but different envelopes.
+
+Bifurcation occurs through Microsoft Exchange while messages are in transit.
+
+Why bifurcation?
+There are different purposes for which bifurcation can occur to a message in transit, such as (including but not limited) recipient-based customization, routing, security, and performance.
+

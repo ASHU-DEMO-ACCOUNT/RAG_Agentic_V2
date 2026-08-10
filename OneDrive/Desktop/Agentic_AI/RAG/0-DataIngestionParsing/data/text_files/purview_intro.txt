@@ -1,0 +1,14 @@
+
+
+Microsoft Purview Records Management will integrate with Power Automate to allow administrators to run custom workflows when retention-labeled items reach the end of their retention period. This enables automated post-retention handling using Power Automate across Microsoft 365 workloads.
+
+This message is associated with Roadmap ID 558859.
+
+Rollout Schedule:
+
+General Availability (GCC, GCCH, and DoD): Rollout begins in January 2027 (previously mid-July 2026) and is expected to complete by end of January 2027 (previously late September 2026).
+
+Impact on Your Organization:
+
+Who is affected: Records Management and Compliance administrators
+
