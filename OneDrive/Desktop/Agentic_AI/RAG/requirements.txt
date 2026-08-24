@@ -18,3 +18,4 @@ huggingface_hub
 langchain_huggingface
 bitsandbytes
 python-dotenv
+langchain-experimental
