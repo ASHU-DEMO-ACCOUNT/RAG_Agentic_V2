@@ -19,3 +19,6 @@ langchain_huggingface
 bitsandbytes
 python-dotenv
 langchain-experimental
+wikipedia
+Pillow
+langchain-google-genai
